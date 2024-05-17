@@ -1,0 +1,20 @@
+{
+  "site" : [
+    {
+      "app": "https://github.com/<username>",
+      "code": "200"
+    },
+    {
+      "app": "https://about.me/<username>",
+      "code": "200"
+    },
+    {
+      "app": "https://www.youtube.com/user/<username>",
+      "code": "200"
+    },
+    {
+      "app": "https://www.youtube.com/user/<username>",
+      "code": "200"
+    }
+  ]
+}
