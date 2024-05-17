@@ -11,10 +11,6 @@
     {
       "app": "https://www.youtube.com/user/<username>",
       "code": "200"
-    },
-    {
-      "app": "https://www.youtube.com/user/<username>",
-      "code": "200"
     }
   ]
 }
