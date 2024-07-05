@@ -10,5 +10,5 @@ pub fn banner() {
 }
 
 pub fn copyright() {
-    println!("{}", "\nhttps://github.com/v7sr14ul2x9/Darkeye\n".bright_cyan())
+    println!("{}", "\nhttps://github.com/yq93dskimzm2/Darkeye\n".bright_cyan())
 }
